@@ -1,6 +1,6 @@
 # Arm-Car
 Bu projemizde Android akıllı telefonumuzun Bluetooth özelliği ile kontrol edebildiğimiz bir Robot Kollu Araç yapacağız. Bir çeşit uzaktan kumandalı robot kollu araba tasarlayacağız. Hem Arduino programlama yapacağız hem de Bluetooth ile telefonumuzu kumanda şeklinde kullanabileceğiz bir yazılım geliştireceğiz.
-Gerekli malzemeler:
+Gerekli malzemeler:\n
 •	Arduino UNO
 •	Arduino Shild 5
 •	Arduino 4wd Robot Kollu 4wd Crane Platformu
